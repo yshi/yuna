@@ -1,0 +1,84 @@
+[1]
+name = "iso"
+
+[1.3]
+name = "identified-organization"
+
+[1.3.6]
+name = "dod"
+
+[1.3.6.1]
+name = "internet"
+
+[1.3.6.1.4]
+name = "private"
+
+[1.3.6.1.4.1]
+name = "enterprise"
+
+[1.3.6.1.4.1.28900]
+name = "yasashii-syndicate"
+
+[1.3.6.1.4.1.28900.0]
+name = "snmp"
+
+[1.3.6.1.4.1.28900.1]
+name = "x509"
+
+[1.3.6.1.4.1.28900.1.1]
+name = "cloud-platform"
+
+[1.3.6.1.4.1.28900.1.1.1]
+name = "package-version"
+
+[1.3.6.1.4.1.28900.1.1.2]
+name = "permission"
+
+[1.3.6.1.4.1.28900.1.1.3]
+name = "dependencies"
+
+[1.3.6.1.4.1.28900.1.1.4]
+name = "min-assurance-level"
+
+[1.3.6.1.4.1.28900.1.1.5]
+name = "package-id"
+
+[1.3.6.1.4.1.28900.1.1.6]
+name = "instance-id"
+
+[1.3.6.1.4.1.28900.1.1.7]
+name = "deployment-name"
+
+[1.3.6.1.4.1.28900.1.1.8]
+name = "tenant-id"
+
+[1.3.6.1.4.1.28900.1.1.9]
+name = "physical-security"
+
+[1.3.6.1.4.1.28900.1.1.9.0]
+name = "cloud"
+
+[1.3.6.1.4.1.28900.1.1.9.1]
+name = "physical"
+
+[1.3.6.1.4.1.28900.1.1.10]
+name = "signer-security"
+
+[1.3.6.1.4.1.28900.1.1.10.1]
+name = "local-file"
+
+[1.3.6.1.4.1.28900.1.1.10.2]
+name = "hardware-module"
+
+[1.3.6.1.4.1.28900.1.2]
+name = "hash-algorithms"
+
+[1.3.6.1.4.1.28900.1.2.1]
+name = "sha2-512"
+
+[1.3.6.1.4.1.28900.1.2.2]
+name = "blake2b-512"
+
+[1.3.6.1.4.1.28900.1.2.3]
+name = "keccak-512"
+

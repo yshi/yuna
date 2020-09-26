@@ -1,0 +1,11 @@
+[package]
+name = "yuna-oid"
+version = "0.1.0"
+authors = ["Stacey Ell <stacey.ell@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+toml = "0.4"
+serde = "1.0"
+clap = "2.33.3"
